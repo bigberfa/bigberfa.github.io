@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #F7F7F7;
+    color: #222222;
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 1150px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+h2 {
+    margin-top: 40px;
+    border-bottom: 2px solid #9E9E9E;
+    padding-bottom: 4px;
+}
+
+.subtitle {
+    text-align: center;
+    color: #555555;
+}
+
+iframe {
+    width: 100%;
+    border: none;
+    background-color: white;
+}
+
+.map-frame {
+    height: 650px;
+}
+
+.scatter-frame {
+    height: 720px;
+}
+
+.donut-frame {
+    height: 560px;
+}
